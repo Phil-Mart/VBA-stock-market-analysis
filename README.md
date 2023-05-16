@@ -11,3 +11,4 @@ This project loaded market data Excel worksheets to determine:
 * Used conditional formatting that highlights positive change in green and negative change in red.
 
 Results were screenshot in lieu of worksheet uploads.
+![Screen Shot 2023-01-09 at 9 45 00 PM](https://github.com/Phil-Mart/VBA-stock-market-analysis/assets/120279988/7d95df83-03e9-4b5b-ba3b-82230b05facd)
